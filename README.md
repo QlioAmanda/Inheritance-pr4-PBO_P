@@ -16,7 +16,6 @@ Berikut adalah rincian program yang ada dalam repositori ini:
 Menghitung luas permukaan dan volume tabung dengan memanfaatkan *method overriding* dari kelas induk lingkaran.
 > **Output:**
 > ![Screenshot Exercise 1](assets/ex1_ss.png)
-> *(Ganti `assets/ex1_ss.png` dengan screenshot hasil run `TestCylinder`)*
 
 ### 2. Exercise 2: Shape Hierarchy
 Mendemonstrasikan hierarki kelas bentuk geometri, di mana `Square` mewarisi `Rectangle`, dan `Rectangle` mewarisi `Shape`.
